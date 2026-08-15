@@ -15,4 +15,4 @@
   📊My GitHub Stats
 </p>
 
-<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=SatyamV7&theme=vue-dark&hide_border=true" /> </p>
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=thedarklord112V7&theme=vue-dark&hide_border=true" /> </p>
