@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak Stats" />
+  <img src="https://vercel.app" alt="GitHub Streak Stats" />
 </p>
