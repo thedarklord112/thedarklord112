@@ -12,5 +12,5 @@
 <br/>
 
 <p align="center">
-  >📊< My Github Stats
+  📊My Github Stats
 </p>
