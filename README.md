@@ -15,5 +15,5 @@
   📊My GitHub Stats
 </p>
 
-<p align="center"> <img src="http://github-readme-streak-stats.vercelapp.com/?user=thedarklord112
+<p align="center"> <img src="https://github-readme-streak-stats.vercel.app/?user=thedarklord112
 &theme=vue-dark&hide_border=true" /> </p>
