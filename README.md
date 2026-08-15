@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://githubusercontent.com" alt="Waving Hand" width="250" height="250" />
+</div>
 
-<!--
-**thedarklord112/thedarklord112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<p align="center">
+  Hi, I'm Davi Schulze I am a full stack web developer, I work particully on apps and games developing and I'm also trying to get an work on Apple's App Store. I also write backend APIs, scripts, work with databases, and my favourite platforms are Github, VS Code and Claude AI. If you follow my profile, here you will found useful things and other weird stuff. Pls enjow ;)
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <input type="checkbox" checked disabled> My Github Stats
+</p>
