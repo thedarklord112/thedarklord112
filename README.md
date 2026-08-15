@@ -12,5 +12,5 @@
 <br/>
 
 <p align="center">
-  <input type="checkbox" checked disabled> My Github Stats
+  >📊< My Github Stats
 </p>
